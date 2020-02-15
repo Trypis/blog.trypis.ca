@@ -1,6 +1,6 @@
 baseURL = "https://blog.trypis.ca"
 languageCode = "en-us"
-title = "evangeliat16"
+title = "Evangelia Trypis"
 theme = "noteworthy"
 enableRobotsTXT = true
 paginate = 4 # Set the number of posts to show before overflowing to the next page.
@@ -8,7 +8,7 @@ summaryLength = 10 # Configure how long the post summary should be on the homepa
 # googleAnalytics = "UA-158207054-1"
 
 [author]
-  name = "evangeliat16"
+  name = "Evangelia Trypis"
 
 [params]
   math = true
